@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="com.rithium.leakybird.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../LeakyBird-android/assets"/>
+    <inherits name="LeakyBirdGame"/>
+    <inherits name="aurelienribon.tweenengine"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>
